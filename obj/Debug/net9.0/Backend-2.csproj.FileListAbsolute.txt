@@ -12,3 +12,4 @@ C:\Users\Marcu\Documents\Kodehode\Backend-2\obj\Debug\net9.0\refint\Backend-2.dl
 C:\Users\Marcu\Documents\Kodehode\Backend-2\obj\Debug\net9.0\Backend-2.pdb
 C:\Users\Marcu\Documents\Kodehode\Backend-2\obj\Debug\net9.0\Backend-2.genruntimeconfig.cache
 C:\Users\Marcu\Documents\Kodehode\Backend-2\obj\Debug\net9.0\ref\Backend-2.dll
+C:\Users\Marcu\Documents\Kodehode\Backend-2\obj\Debug\net9.0\Backend-2.sourcelink.json
